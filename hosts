@@ -1,9 +1,17 @@
 ######################################################
 127.0.0.1 jiosaavn.com
 0.0.0.0 jiosaavn.com
+127.0.0.1 www.jiosaavn.com
+0.0.0.0 www.jiosaavn.com
 127.0.0.1 gaana.com
 0.0.0.0 gaana.com
-127.0.0.1 *.netflix.com
-0.0.0.0 *.netflix.com
-0.0.0.0 *.primevideo.com
-127.0.0.1 *.primevideo.com
+127.0.0.1 www.gaana.com
+0.0.0.0 www.gaana.com
+127.0.0.1 www.netflix.com
+0.0.0.0 www.netflix.com
+127.0.0.1 netflix.com
+0.0.0.0 netflix.com
+0.0.0.0 www.primevideo.com
+127.0.0.1 www.primevideo.com
+0.0.0.0 primevideo.com
+127.0.0.1 primevideo.com
